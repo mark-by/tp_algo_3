@@ -4,3 +4,4 @@ project(module_3)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(task2 task2/main.cpp)
+add_executable(task3 task3/main.cpp)
